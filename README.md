@@ -1,2 +1,2 @@
 # locate-speaker
-A project about locate a speaker in a room using pyrirgen
+A project regarding location of speaker in a room using pyrirgen
